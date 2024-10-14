@@ -904,6 +904,14 @@ section,
   margin-bottom: 0;
 }
 
+.services img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  margin-bottom: 30px;
+}
+
 @media (min-width: 1365px) {
   .services .service-item:hover {
     transform: translateY(-10px);
